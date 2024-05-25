@@ -1,7 +1,5 @@
 ### Image Video Downloader
 
-## Project Description
-
 Image Video Downloader is a simple web-based application that allows users to download files by pasting the URL of an image, video, or PDF file. The user interface is designed to be straightforward and user-friendly, making it easy to download files with just a few clicks.
 
 ## Features
@@ -12,14 +10,6 @@ Image Video Downloader is a simple web-based application that allows users to do
 
 ## Live Demo
 Live Demo of project is [here](#)
-
-## Project Structure
-
-The project consists of the following main files:
-
-1. `index.html`: The main HTML file that defines the structure of the web application.
-2. `style.css`: The CSS file that contains the styles for the web application.
-3. `app.js`: The JavaScript file that handles the download functionality.
 
 ## Installation and Usage
 
