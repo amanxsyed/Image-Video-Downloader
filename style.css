@@ -13,3 +13,10 @@ body{
     min-height: 100vh;
     background: orange;
 }
+.wrapper{
+    background-color: #fff;
+    max-width: 500px;
+    border-radius: 15px;
+    padding: 20px 25px 20px;
+    box-shadow: 0 15px 40px rgba(255, 255, 255, 0.5);
+}
